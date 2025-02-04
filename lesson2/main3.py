@@ -6,7 +6,7 @@ example = "Haa"*5
 print("First Name :", first_name)
 print("Last Name :", last_name)
 print("Full Name :", full_name)
-print("String Multipliec 5 times gives this result :", example)
+print("String Multiplied 5 times gives this result :", example)
 
 word = 'Coding'
 print("Length of String :", len(word))
