@@ -1,0 +1,28 @@
+Sets 
+*Sets can hold unique values only. It cannot have duplicate values.
+*It is represented by {}
+
+Operations on sets : 
+
+s1 = { 1,2,3,4,5}
+s2 = { 4,5,6,7,8}
+
+1.Intersection-It will give the common elements from both the sets.
+
+i = s1.intersection(s2)
+print(i)
+
+2.Union-All the values from both sets will be printed except that common values will be written only once.
+
+u = s1.union(s2)
+print(u)
+
+3.Difference-Common elements will be deleted and remaining elements from set 1 will be displayed.
+
+d = s1.difference(s2)
+print(d)
+
+4.Symmetric Difference-Common elements will be deleted and the remaining elements from both the sets will be displayed.
+
+sd = s1.symmetric_difference(s2)
+print(sd)
