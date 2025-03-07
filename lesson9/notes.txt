@@ -1,0 +1,6 @@
+Class - Category
+Object - Instance (example) of a Class
+calling a method - object.methodname()
+Here functions are called as methods because they are declared inside of a class and when called it needs to use object along with it
+Creating an object  - objectname = Classname()
+In the above class name you pass parameters if required 
