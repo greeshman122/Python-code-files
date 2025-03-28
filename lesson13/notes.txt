@@ -1,0 +1,13 @@
+-> Read-only parts of the file specifying the number of characters as arguments .
+Eg : print(file.read(12))
+
+-> Read the first line of the file using readline() function
+Eg : print(file.read())
+
+-> Read multiples of a file use readline() function two time to read the first 2 line       (or) 
+use readline() function five times to read first 5 line
+
+-> Read all the line of the file use readlines() function
+Eg : print(file.readlines())
+
+-> Loop through the lines of the file using for loop
