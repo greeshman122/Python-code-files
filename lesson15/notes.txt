@@ -1,0 +1,11 @@
+=> Label - This widget is used to display text on the windows
+Label(text=" " , fg = "white" , bg = "black" , height = 10 , width = 10 ) 
+=> Button - This widget is to used to add buttons
+Button(text = " " , fg = "white" , bg = "black" , height = 10 , width = 10)
+=> Entry - This widget accepts single line as input from user
+Entry(fg = "yellow" , bg = "blue" , width = 50)
+=> Text - This widget accepts multi line input form user
+Text(fg = "yellow" , bg = "blue" , width = 50)
+=> Frame - This is just like a container to hold and organixe other widgets
+Frame(master = window_name , relief = RAISED , borderwidth = 5)
+=> widget_name.pack
