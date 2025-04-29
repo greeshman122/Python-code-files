@@ -9,7 +9,6 @@ def multiply_n_times(n, m):
         result += m
     return result
 
-# Example usage:
 N = 5
 M = 4
 
